@@ -5,7 +5,7 @@ import os
 import re
 from datetime import datetime
 
-main_folder = '/media/namnam/b1d032a2-c26d-4ea4-96b8-93078f9f0023/Thesis/'
+main_folder = '/media/'
 sites_folder = main_folder + 'Sites/'
 js_files = main_folder + 'parsed.csv'
 site_list = main_folder + 'dowloaded_sites.csv'
